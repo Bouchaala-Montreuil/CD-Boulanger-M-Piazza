@@ -17,6 +17,12 @@ Le site prêt à être partagé et déployé se trouve dans [`website/`](website
 - Pour Netlify, Vercel ou un hébergeur FTP, utiliser `website/` comme dossier de publication.
 - Le site ne nécessite ni serveur applicatif, ni base de données, ni installation de dépendances.
 
+## Aperçu public depuis GitHub
+
+Le fichier `index.html` à la racine redirige vers le site prêt à publier. Si GitHub Pages est activé sur la branche `arena/01a04401-cd-boulanger-m-piazza` avec le dossier `/ (root)`, le lien public sera :
+
+<https://bouchaala-montreuil.github.io/CD-Boulanger-M-Piazza/>
+
 ## Organisation
 
 ```text
