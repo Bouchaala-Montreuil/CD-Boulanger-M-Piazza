@@ -1,0 +1,32 @@
+# Archives temporaires et fichiers de sauvegarde
+*.rar
+*.part*
+*.zip
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sorties générées accidentellement dans source/
+source/*.html
+source/en/
+source/pl/
+source/site-classique/
+source/robots.txt
+source/sitemap.xml
+source/favicon.ico
+.website-build/
+
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets locaux
+.env
+.env.*
+!.env.example
