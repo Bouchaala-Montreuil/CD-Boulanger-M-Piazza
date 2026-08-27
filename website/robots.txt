@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.cdboulangerie.fr/sitemap.xml
+Sitemap: https://cd-boulangerie.fr/sitemap.xml

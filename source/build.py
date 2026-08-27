@@ -49,9 +49,8 @@ INSTAGRAM = "https://www.instagram.com/cdboulangerie/"
 # WhatsApp : numéro au format international, sans + ni espaces.
 WHATSAPP_NUM = "33978806306"
 
-# ⚠️ À REMPLACER par le vrai domaine avant la mise en ligne.
-# Sert aux liens canoniques, au sitemap et aux aperçus de partage.
-SITE_URL = os.environ.get("CD_SITE_URL", "https://www.cdboulangerie.fr").rstrip("/")
+# Domaine public du site. Sert aux liens canoniques, au sitemap et aux aperçus de partage.
+SITE_URL = os.environ.get("CD_SITE_URL", "https://cd-boulangerie.fr").rstrip("/")
 # ---------------------------------------------------------------------------
 #  ADRESSES
 #  Vérifiées au registre du commerce (RCS Draguignan, SIREN 918 964 834) :
